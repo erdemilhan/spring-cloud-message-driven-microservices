@@ -2,7 +2,7 @@
 
 Detailed description can be found here: [Building and testing message-driven microservices using Spring Cloud Stream](https://piotrminkowski.wordpress.com/2018/06/15/building-and-testing-message-driven-microservices-using-spring-cloud-stream/) 
 
-# How to execute
+# How to execute
 
 Run all 3 services with "mvn spring-boot:run" command
 
